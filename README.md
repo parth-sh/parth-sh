@@ -43,18 +43,3 @@
 <!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
   </p>
 <br>
-	  
-<!-- ## Stats 📈 -->
-
-
-## Contribution Graph 📊
-[![Shadab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sazamansari&bg_color=000000&color=bdb2bd&line=d110c4&point=c00202&area=true&hide_border=true)](https://github.com/sazamansari/github-readme-activity-graph)
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-<a href="https://app.daily.dev/shadab1995"><img src="https://api.daily.dev/devcards/a1d71e5ee2a64fb0a86d11224c9c2f40.png?r=fbq" width="200" alt="Shadab's Dev Card"/></a>
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/Susmita-Dey)   -->
-[![Shadab's GitHub stats](https://stats.quine.sh/Shadab/github)](https://quine.sh/profile/Shadab)
